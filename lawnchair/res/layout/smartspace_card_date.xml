@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/date"
-            android:layout_marginTop="@dimen/enhanced_smartspace_subtitle_margin_top">
+            android:layout_marginTop="38.0dip">
 
             <include layout="@layout/smartspace_subtitle_pane" />
         </androidx.constraintlayout.widget.ConstraintLayout>
